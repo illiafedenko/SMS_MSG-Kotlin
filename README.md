@@ -4,14 +4,14 @@
 Minimal text messenger with a ton of features.
 <br />
 <div class="christmas_promotion_boxes">
-    <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%200.png" width="150" height="300"/>
+<!--     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%200.png" width="150" height="300"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%201.png" width="150" height="300"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%202.png" width="150" height="300"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%203.png" width="150" height="300"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%204.png" width="150" height="300"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%205.png" width="150" height="300"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%206.png" width="150" height="300"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%207.png" width="150" height="300"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Replify-Messenger/master/screenshots/Google%20Pixel%203%205.5-inch%20Display%20(1080%20x%202160)%20Screenshot%207.png" width="150" height="300"/> -->
 </div>
 
 <br />
